@@ -5,7 +5,7 @@
   text-align: center;
 }
 
-.profile {
+.profile h1 {
   font-size: 16px;
   text-transform: uppercase;
 }
@@ -14,4 +14,12 @@
   width: 100 px;
   height: 100 px;
   border-radius: 50px;
+}
+
+html {
+  background: url ('http://farm9.static.flickr.com/8387/8682063261_25a5db76f0_b.jpg') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
